@@ -4,8 +4,8 @@ Hello! I'm Rachel Jozsa and I am a technical writer based in Charlotte, NC. Whil
 
 # Education
 
-* University of Georgia - Bachelors of Arts in English<br>
-* College of Charleston - Masters of Arts in English
+* University of Georgia - Bachelors of Arts in English - 2008
+* College of Charleston - Masters of Arts in English - 2010
 
 # Social
 
